@@ -438,7 +438,7 @@ exports.funmenu = (prefix) => {
 }
 
 exports.donasi = () => {
-  return`Jika Ingin Melakukan Donasi ( pulsa : 085718828566 )
+  return`Jika Ingin Melakukan Donasi ( pulsa : 085786530730 )
 
 Rental Bot WhatsApp :
 📆 10k/25hari
